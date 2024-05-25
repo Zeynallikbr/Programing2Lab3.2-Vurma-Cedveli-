@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Programing2\\HomeTask3\\App2(Vurma Cedveli)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4777BA-4C3A-4D8F-9F7E-58C31742949A}|App2(Vurma Cedveli)\\App2(Vurma Cedveli).csproj|c:\\users\\admin\\desktop\\programing2\\hometask3\\app2(vurma cedveli)\\app2(vurma cedveli)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4777BA-4C3A-4D8F-9F7E-58C31742949A}|App2(Vurma Cedveli)\\App2(Vurma Cedveli).csproj|solutionrelative:app2(vurma cedveli)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Programing2\\HomeTask3\\App2(Vurma Cedveli)\\App2(Vurma Cedveli)\\Program.cs",
+              "RelativeDocumentMoniker": "App2(Vurma Cedveli)\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Programing2\\HomeTask3\\App2(Vurma Cedveli)\\App2(Vurma Cedveli)\\Program.cs",
+              "RelativeToolTip": "App2(Vurma Cedveli)\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwAwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T15:46:57.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
